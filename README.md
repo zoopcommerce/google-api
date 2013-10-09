@@ -8,7 +8,7 @@ This is a forked version from:
 * http://code.google.com/p/google-api-php-client/
 * https://github.com/evert/google-api-php-client
 
-Since the latter isn't maintaining it any more this is a rebased version.
+Since the latter isn't maintained anymore, this is a "rebased" version.
 
 ## Fork information
 
